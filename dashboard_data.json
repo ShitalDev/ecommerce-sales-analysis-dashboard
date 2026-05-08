@@ -1,0 +1,2111 @@
+{
+  "kpis": {
+    "total_revenue": "1346600",
+    "total_profit": 435745.53,
+    "avg_profit_margin": 27.3,
+    "total_orders": 1000,
+    "avg_order_value": 1346.6,
+    "total_units": 3008,
+    "return_rate": 30.8,
+    "delivered_rate": 31.3
+  },
+  "products": [
+    {
+      "product_name": "Laptop",
+      "revenue": 696000,
+      "orders": 154,
+      "units": 464,
+      "avg_price": 1541.81,
+      "revenue_share_%": 51.7
+    },
+    {
+      "product_name": "Smartphone",
+      "revenue": 353600,
+      "orders": 142,
+      "units": 442,
+      "avg_price": 818.14,
+      "revenue_share_%": 26.3
+    },
+    {
+      "product_name": "Monitor",
+      "revenue": 150900,
+      "orders": 181,
+      "units": 503,
+      "avg_price": 308.89,
+      "revenue_share_%": 11.2
+    },
+    {
+      "product_name": "Smartwatch",
+      "revenue": 74200,
+      "orders": 122,
+      "units": 371,
+      "avg_price": 200.0,
+      "revenue_share_%": 5.5
+    },
+    {
+      "product_name": "Headphones",
+      "revenue": 37000,
+      "orders": 120,
+      "units": 370,
+      "avg_price": 101.79,
+      "revenue_share_%": 2.7
+    },
+    {
+      "product_name": "Keyboard",
+      "revenue": 22900,
+      "orders": 145,
+      "units": 458,
+      "avg_price": 50.74,
+      "revenue_share_%": 1.7
+    },
+    {
+      "product_name": "Mouse",
+      "revenue": 12000,
+      "orders": 136,
+      "units": 400,
+      "avg_price": 30.95,
+      "revenue_share_%": 0.9
+    }
+  ],
+  "loss_products": [
+    {
+      "product_name": "Mouse",
+      "revenue": 12000,
+      "profit": 2196.71,
+      "orders": 136
+    },
+    {
+      "product_name": "Keyboard",
+      "revenue": 22900,
+      "profit": 5690.01,
+      "orders": 145
+    },
+    {
+      "product_name": "Headphones",
+      "revenue": 37000,
+      "profit": 10161.24,
+      "orders": 120
+    },
+    {
+      "product_name": "Smartwatch",
+      "revenue": 74200,
+      "profit": 23295.09,
+      "orders": 122
+    },
+    {
+      "product_name": "Monitor",
+      "revenue": 150900,
+      "profit": 46328.97,
+      "orders": 181
+    },
+    {
+      "product_name": "Smartphone",
+      "revenue": 353600,
+      "profit": 112916.74,
+      "orders": 142
+    },
+    {
+      "product_name": "Laptop",
+      "revenue": 696000,
+      "profit": 235156.77,
+      "orders": 154
+    }
+  ],
+  "customers": [
+    {
+      "customer_id": "CUST0204",
+      "revenue": 29100,
+      "profit": 10096.71,
+      "orders": 9
+    },
+    {
+      "customer_id": "CUST0095",
+      "revenue": 22440,
+      "profit": 6782.07,
+      "orders": 9
+    },
+    {
+      "customer_id": "CUST0131",
+      "revenue": 21180,
+      "profit": 8270.01,
+      "orders": 8
+    },
+    {
+      "customer_id": "CUST0139",
+      "revenue": 18350,
+      "profit": 6566.46,
+      "orders": 7
+    },
+    {
+      "customer_id": "CUST0281",
+      "revenue": 17850,
+      "profit": 5197.06,
+      "orders": 8
+    },
+    {
+      "customer_id": "CUST0144",
+      "revenue": 17320,
+      "profit": 4263.25,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0200",
+      "revenue": 16700,
+      "profit": 5757.9,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0197",
+      "revenue": 16150,
+      "profit": 6354.63,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0064",
+      "revenue": 14600,
+      "profit": 4696.43,
+      "orders": 7
+    },
+    {
+      "customer_id": "CUST0293",
+      "revenue": 14200,
+      "profit": 3913.29,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0160",
+      "revenue": 13750,
+      "profit": 4191.88,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0129",
+      "revenue": 13460,
+      "profit": 4024.77,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0031",
+      "revenue": 12800,
+      "profit": 4085.53,
+      "orders": 7
+    },
+    {
+      "customer_id": "CUST0203",
+      "revenue": 12480,
+      "profit": 4506.31,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0176",
+      "revenue": 12400,
+      "profit": 3983.57,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0138",
+      "revenue": 12350,
+      "profit": 3486.84,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0156",
+      "revenue": 12000,
+      "profit": 3636.17,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0106",
+      "revenue": 11150,
+      "profit": 2540.89,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0178",
+      "revenue": 11100,
+      "profit": 4283.93,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0133",
+      "revenue": 11100,
+      "profit": 3588.21,
+      "orders": 7
+    },
+    {
+      "customer_id": "CUST0282",
+      "revenue": 10600,
+      "profit": 4095.94,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0269",
+      "revenue": 10500,
+      "profit": 2701.88,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0023",
+      "revenue": 10450,
+      "profit": 3938.44,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0006",
+      "revenue": 10400,
+      "profit": 2988.86,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0212",
+      "revenue": 10060,
+      "profit": 2798.08,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0299",
+      "revenue": 10060,
+      "profit": 3403.59,
+      "orders": 7
+    },
+    {
+      "customer_id": "CUST0010",
+      "revenue": 10000,
+      "profit": 3950.02,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0112",
+      "revenue": 9800,
+      "profit": 3160.07,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0288",
+      "revenue": 9750,
+      "profit": 3977.04,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0063",
+      "revenue": 9550,
+      "profit": 4013.71,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0173",
+      "revenue": 9250,
+      "profit": 2429.38,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0276",
+      "revenue": 9230,
+      "profit": 2441.17,
+      "orders": 7
+    },
+    {
+      "customer_id": "CUST0185",
+      "revenue": 9200,
+      "profit": 2210.5,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0070",
+      "revenue": 9200,
+      "profit": 2101.22,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0232",
+      "revenue": 9190,
+      "profit": 3137.77,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0272",
+      "revenue": 9180,
+      "profit": 3763.04,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0218",
+      "revenue": 9150,
+      "profit": 3084.28,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0274",
+      "revenue": 9100,
+      "profit": 2876.71,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0295",
+      "revenue": 8830,
+      "profit": 3133.22,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0125",
+      "revenue": 8720,
+      "profit": 3002.28,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0137",
+      "revenue": 8700,
+      "profit": 2550.77,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0289",
+      "revenue": 8620,
+      "profit": 1833.73,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0058",
+      "revenue": 8500,
+      "profit": 2979.28,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0198",
+      "revenue": 8500,
+      "profit": 2731.47,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0201",
+      "revenue": 8460,
+      "profit": 2941.64,
+      "orders": 8
+    },
+    {
+      "customer_id": "CUST0088",
+      "revenue": 8300,
+      "profit": 1998.74,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0256",
+      "revenue": 8250,
+      "profit": 3180.77,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0091",
+      "revenue": 7970,
+      "profit": 2057.04,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0123",
+      "revenue": 7900,
+      "profit": 3066.54,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0113",
+      "revenue": 7800,
+      "profit": 2703.48,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0015",
+      "revenue": 7800,
+      "profit": 3361.19,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0046",
+      "revenue": 7760,
+      "profit": 3104.47,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0253",
+      "revenue": 7750,
+      "profit": 2670.24,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0032",
+      "revenue": 7720,
+      "profit": 2615.81,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0069",
+      "revenue": 7700,
+      "profit": 2710.45,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0234",
+      "revenue": 7700,
+      "profit": 3280.63,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0034",
+      "revenue": 7700,
+      "profit": 3244.06,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0206",
+      "revenue": 7700,
+      "profit": 2169.71,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0187",
+      "revenue": 7700,
+      "profit": 1951.4,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0231",
+      "revenue": 7600,
+      "profit": 1547.56,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0236",
+      "revenue": 7600,
+      "profit": 3166.15,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0261",
+      "revenue": 7590,
+      "profit": 3269.0,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0223",
+      "revenue": 7560,
+      "profit": 3080.87,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0053",
+      "revenue": 7550,
+      "profit": 2745.15,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0193",
+      "revenue": 7500,
+      "profit": 2115.94,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0096",
+      "revenue": 7200,
+      "profit": 2149.54,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0296",
+      "revenue": 7130,
+      "profit": 2186.48,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0109",
+      "revenue": 6980,
+      "profit": 2260.95,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0060",
+      "revenue": 6900,
+      "profit": 1469.49,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0027",
+      "revenue": 6850,
+      "profit": 1908.55,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0107",
+      "revenue": 6750,
+      "profit": 2652.25,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0159",
+      "revenue": 6650,
+      "profit": 2127.56,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0226",
+      "revenue": 6600,
+      "profit": 2243.17,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0196",
+      "revenue": 6590,
+      "profit": 2273.7,
+      "orders": 7
+    },
+    {
+      "customer_id": "CUST0065",
+      "revenue": 6500,
+      "profit": 1606.48,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0004",
+      "revenue": 6500,
+      "profit": 2103.39,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0079",
+      "revenue": 6500,
+      "profit": 2078.76,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0041",
+      "revenue": 6400,
+      "profit": 2291.71,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0199",
+      "revenue": 6340,
+      "profit": 1612.67,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0128",
+      "revenue": 6300,
+      "profit": 1998.2,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0059",
+      "revenue": 6290,
+      "profit": 2512.76,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0099",
+      "revenue": 6200,
+      "profit": 1366.32,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0264",
+      "revenue": 6150,
+      "profit": 1752.88,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0001",
+      "revenue": 6150,
+      "profit": 2477.91,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0122",
+      "revenue": 6100,
+      "profit": 1935.02,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0216",
+      "revenue": 6010,
+      "profit": 2195.08,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0067",
+      "revenue": 6000,
+      "profit": 2681.03,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0124",
+      "revenue": 6000,
+      "profit": 1443.19,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0191",
+      "revenue": 6000,
+      "profit": 2574.82,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0090",
+      "revenue": 6000,
+      "profit": 2526.98,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0230",
+      "revenue": 6000,
+      "profit": 2468.93,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0258",
+      "revenue": 6000,
+      "profit": 1599.99,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0150",
+      "revenue": 5950,
+      "profit": 1641.77,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0022",
+      "revenue": 5930,
+      "profit": 1918.61,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0052",
+      "revenue": 5860,
+      "profit": 1760.77,
+      "orders": 9
+    },
+    {
+      "customer_id": "CUST0283",
+      "revenue": 5840,
+      "profit": 2244.37,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0078",
+      "revenue": 5800,
+      "profit": 2300.32,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0011",
+      "revenue": 5750,
+      "profit": 1548.61,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0152",
+      "revenue": 5730,
+      "profit": 2025.69,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0255",
+      "revenue": 5700,
+      "profit": 1871.63,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0211",
+      "revenue": 5640,
+      "profit": 1898.52,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0174",
+      "revenue": 5630,
+      "profit": 1476.24,
+      "orders": 7
+    },
+    {
+      "customer_id": "CUST0080",
+      "revenue": 5600,
+      "profit": 2439.49,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0247",
+      "revenue": 5600,
+      "profit": 2440.58,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0101",
+      "revenue": 5500,
+      "profit": 2045.65,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0251",
+      "revenue": 5460,
+      "profit": 1748.51,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0298",
+      "revenue": 5420,
+      "profit": 1883.24,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0162",
+      "revenue": 5400,
+      "profit": 1752.99,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0066",
+      "revenue": 5390,
+      "profit": 1429.69,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0228",
+      "revenue": 5370,
+      "profit": 1822.82,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0188",
+      "revenue": 5350,
+      "profit": 1578.5,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0051",
+      "revenue": 5300,
+      "profit": 2305.61,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0146",
+      "revenue": 5300,
+      "profit": 1665.87,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0105",
+      "revenue": 5150,
+      "profit": 1215.47,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0142",
+      "revenue": 5150,
+      "profit": 2025.61,
+      "orders": 7
+    },
+    {
+      "customer_id": "CUST0202",
+      "revenue": 5090,
+      "profit": 1874.13,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0182",
+      "revenue": 5080,
+      "profit": 1047.0,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0189",
+      "revenue": 5080,
+      "profit": 1217.29,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0085",
+      "revenue": 5050,
+      "profit": 1792.19,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0082",
+      "revenue": 4900,
+      "profit": 1629.29,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0003",
+      "revenue": 4890,
+      "profit": 1120.84,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0184",
+      "revenue": 4890,
+      "profit": 1242.68,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0028",
+      "revenue": 4850,
+      "profit": 1582.08,
+      "orders": 7
+    },
+    {
+      "customer_id": "CUST0242",
+      "revenue": 4800,
+      "profit": 1592.39,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0044",
+      "revenue": 4550,
+      "profit": 1379.6,
+      "orders": 9
+    },
+    {
+      "customer_id": "CUST0267",
+      "revenue": 4500,
+      "profit": 1492.68,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0179",
+      "revenue": 4500,
+      "profit": 1146.68,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0030",
+      "revenue": 4400,
+      "profit": 1681.7,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0273",
+      "revenue": 4390,
+      "profit": 1395.23,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0266",
+      "revenue": 4350,
+      "profit": 1256.06,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0026",
+      "revenue": 4300,
+      "profit": 1147.51,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0081",
+      "revenue": 4200,
+      "profit": 1432.7,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0279",
+      "revenue": 4180,
+      "profit": 830.71,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0087",
+      "revenue": 4160,
+      "profit": 1508.73,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0012",
+      "revenue": 3990,
+      "profit": 1224.55,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0259",
+      "revenue": 3960,
+      "profit": 1139.58,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0180",
+      "revenue": 3950,
+      "profit": 1516.82,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0239",
+      "revenue": 3950,
+      "profit": 1048.96,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0036",
+      "revenue": 3900,
+      "profit": 1406.94,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0149",
+      "revenue": 3850,
+      "profit": 1216.2,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0127",
+      "revenue": 3800,
+      "profit": 1222.98,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0155",
+      "revenue": 3800,
+      "profit": 1180.21,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0019",
+      "revenue": 3750,
+      "profit": 1430.83,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0045",
+      "revenue": 3730,
+      "profit": 1196.0,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0285",
+      "revenue": 3700,
+      "profit": 1400.69,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0220",
+      "revenue": 3650,
+      "profit": 1078.52,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0268",
+      "revenue": 3540,
+      "profit": 895.87,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0071",
+      "revenue": 3520,
+      "profit": 962.77,
+      "orders": 6
+    },
+    {
+      "customer_id": "CUST0250",
+      "revenue": 3500,
+      "profit": 888.42,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0020",
+      "revenue": 3500,
+      "profit": 1268.63,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0039",
+      "revenue": 3500,
+      "profit": 782.46,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0186",
+      "revenue": 3480,
+      "profit": 1000.16,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0118",
+      "revenue": 3450,
+      "profit": 934.26,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0183",
+      "revenue": 3450,
+      "profit": 860.19,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0210",
+      "revenue": 3400,
+      "profit": 1107.54,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0227",
+      "revenue": 3350,
+      "profit": 886.71,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0241",
+      "revenue": 3350,
+      "profit": 1268.34,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0114",
+      "revenue": 3350,
+      "profit": 899.32,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0029",
+      "revenue": 3300,
+      "profit": 1246.76,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0168",
+      "revenue": 3250,
+      "profit": 1160.34,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0287",
+      "revenue": 3200,
+      "profit": 1385.68,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0134",
+      "revenue": 3200,
+      "profit": 972.86,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0038",
+      "revenue": 3050,
+      "profit": 849.05,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0240",
+      "revenue": 2900,
+      "profit": 798.79,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0016",
+      "revenue": 2900,
+      "profit": 1022.05,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0270",
+      "revenue": 2850,
+      "profit": 805.75,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0208",
+      "revenue": 2720,
+      "profit": 891.14,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0049",
+      "revenue": 2700,
+      "profit": 930.64,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0042",
+      "revenue": 2650,
+      "profit": 1094.77,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0130",
+      "revenue": 2650,
+      "profit": 911.15,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0291",
+      "revenue": 2630,
+      "profit": 588.55,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0037",
+      "revenue": 2600,
+      "profit": 758.7,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0126",
+      "revenue": 2560,
+      "profit": 822.77,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0284",
+      "revenue": 2550,
+      "profit": 846.98,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0092",
+      "revenue": 2550,
+      "profit": 1003.7,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0024",
+      "revenue": 2500,
+      "profit": 840.84,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0263",
+      "revenue": 2400,
+      "profit": 787.65,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0145",
+      "revenue": 2300,
+      "profit": 651.57,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0158",
+      "revenue": 2300,
+      "profit": 583.28,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0073",
+      "revenue": 2300,
+      "profit": 639.65,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0047",
+      "revenue": 2300,
+      "profit": 872.47,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0213",
+      "revenue": 2200,
+      "profit": 610.8,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0271",
+      "revenue": 2170,
+      "profit": 714.74,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0077",
+      "revenue": 2170,
+      "profit": 600.62,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0103",
+      "revenue": 2110,
+      "profit": 493.82,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0252",
+      "revenue": 2100,
+      "profit": 524.12,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0055",
+      "revenue": 2000,
+      "profit": 593.19,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0076",
+      "revenue": 1930,
+      "profit": 668.71,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0094",
+      "revenue": 1900,
+      "profit": 753.8,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0083",
+      "revenue": 1900,
+      "profit": 720.25,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0248",
+      "revenue": 1800,
+      "profit": 540.42,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0093",
+      "revenue": 1800,
+      "profit": 649.48,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0181",
+      "revenue": 1800,
+      "profit": 515.01,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0048",
+      "revenue": 1800,
+      "profit": 626.75,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0245",
+      "revenue": 1720,
+      "profit": 306.53,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0238",
+      "revenue": 1720,
+      "profit": 550.42,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0207",
+      "revenue": 1700,
+      "profit": 491.26,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0062",
+      "revenue": 1700,
+      "profit": 502.77,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0243",
+      "revenue": 1700,
+      "profit": 416.42,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0148",
+      "revenue": 1670,
+      "profit": 453.84,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0222",
+      "revenue": 1660,
+      "profit": 713.26,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0225",
+      "revenue": 1640,
+      "profit": 404.79,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0172",
+      "revenue": 1620,
+      "profit": 676.33,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0290",
+      "revenue": 1600,
+      "profit": 453.13,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0286",
+      "revenue": 1600,
+      "profit": 674.49,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0086",
+      "revenue": 1600,
+      "profit": 392.81,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0224",
+      "revenue": 1600,
+      "profit": 532.5,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0050",
+      "revenue": 1590,
+      "profit": 595.79,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0115",
+      "revenue": 1590,
+      "profit": 357.43,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0215",
+      "revenue": 1590,
+      "profit": 490.92,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0154",
+      "revenue": 1580,
+      "profit": 466.86,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0002",
+      "revenue": 1550,
+      "profit": 541.35,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0116",
+      "revenue": 1520,
+      "profit": 451.63,
+      "orders": 5
+    },
+    {
+      "customer_id": "CUST0260",
+      "revenue": 1500,
+      "profit": 332.59,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0249",
+      "revenue": 1500,
+      "profit": 409.49,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0025",
+      "revenue": 1500,
+      "profit": 502.43,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0177",
+      "revenue": 1430,
+      "profit": 309.9,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0008",
+      "revenue": 1370,
+      "profit": 523.16,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0195",
+      "revenue": 1300,
+      "profit": 504.36,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0068",
+      "revenue": 1280,
+      "profit": 355.32,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0141",
+      "revenue": 1230,
+      "profit": 269.97,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0297",
+      "revenue": 1200,
+      "profit": 386.27,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0121",
+      "revenue": 1150,
+      "profit": 355.16,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0221",
+      "revenue": 1110,
+      "profit": 297.54,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0061",
+      "revenue": 1100,
+      "profit": 260.53,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0007",
+      "revenue": 1100,
+      "profit": 241.31,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0229",
+      "revenue": 1090,
+      "profit": 388.64,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0140",
+      "revenue": 1090,
+      "profit": 413.62,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0280",
+      "revenue": 1050,
+      "profit": 390.68,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0013",
+      "revenue": 1000,
+      "profit": 229.9,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0089",
+      "revenue": 990,
+      "profit": 418.29,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0192",
+      "revenue": 980,
+      "profit": 330.51,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0054",
+      "revenue": 950,
+      "profit": 217.64,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0018",
+      "revenue": 910,
+      "profit": 258.78,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0246",
+      "revenue": 900,
+      "profit": 277.96,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0102",
+      "revenue": 900,
+      "profit": 233.49,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0111",
+      "revenue": 900,
+      "profit": 389.38,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0164",
+      "revenue": 900,
+      "profit": 212.54,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0300",
+      "revenue": 890,
+      "profit": 168.15,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0153",
+      "revenue": 860,
+      "profit": 287.48,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0097",
+      "revenue": 800,
+      "profit": 218.65,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0235",
+      "revenue": 800,
+      "profit": 184.91,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0167",
+      "revenue": 800,
+      "profit": 251.53,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0075",
+      "revenue": 750,
+      "profit": 158.69,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0205",
+      "revenue": 700,
+      "profit": 234.06,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0233",
+      "revenue": 600,
+      "profit": 190.06,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0104",
+      "revenue": 600,
+      "profit": 139.54,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0033",
+      "revenue": 600,
+      "profit": 165.39,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0143",
+      "revenue": 600,
+      "profit": 147.27,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0161",
+      "revenue": 600,
+      "profit": 121.91,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0237",
+      "revenue": 600,
+      "profit": 201.6,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0278",
+      "revenue": 600,
+      "profit": 226.3,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0214",
+      "revenue": 600,
+      "profit": 231.41,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0120",
+      "revenue": 550,
+      "profit": 140.39,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0043",
+      "revenue": 520,
+      "profit": 129.14,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0219",
+      "revenue": 510,
+      "profit": 120.42,
+      "orders": 4
+    },
+    {
+      "customer_id": "CUST0136",
+      "revenue": 500,
+      "profit": 116.9,
+      "orders": 3
+    },
+    {
+      "customer_id": "CUST0072",
+      "revenue": 500,
+      "profit": 139.47,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0171",
+      "revenue": 500,
+      "profit": 106.06,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0265",
+      "revenue": 500,
+      "profit": 153.59,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0117",
+      "revenue": 450,
+      "profit": 123.47,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0057",
+      "revenue": 450,
+      "profit": 146.55,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0040",
+      "revenue": 450,
+      "profit": 145.5,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0098",
+      "revenue": 400,
+      "profit": 98.66,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0056",
+      "revenue": 400,
+      "profit": 80.37,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0147",
+      "revenue": 400,
+      "profit": 168.17,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0074",
+      "revenue": 400,
+      "profit": 134.99,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0108",
+      "revenue": 400,
+      "profit": 149.98,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0021",
+      "revenue": 320,
+      "profit": 75.93,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0262",
+      "revenue": 320,
+      "profit": 63.05,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0163",
+      "revenue": 300,
+      "profit": 90.44,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0244",
+      "revenue": 300,
+      "profit": 62.26,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0169",
+      "revenue": 300,
+      "profit": 103.58,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0014",
+      "revenue": 300,
+      "profit": 98.49,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0035",
+      "revenue": 270,
+      "profit": 81.7,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0209",
+      "revenue": 250,
+      "profit": 44.93,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0165",
+      "revenue": 250,
+      "profit": 34.51,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0170",
+      "revenue": 250,
+      "profit": 54.66,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0017",
+      "revenue": 250,
+      "profit": 70.72,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0157",
+      "revenue": 200,
+      "profit": 71.19,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0009",
+      "revenue": 200,
+      "profit": 57.13,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0190",
+      "revenue": 200,
+      "profit": 70.87,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0135",
+      "revenue": 200,
+      "profit": 33.46,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0294",
+      "revenue": 150,
+      "profit": 44.08,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0166",
+      "revenue": 120,
+      "profit": 40.08,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0292",
+      "revenue": 120,
+      "profit": 22.02,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0100",
+      "revenue": 100,
+      "profit": 24.88,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0217",
+      "revenue": 90,
+      "profit": 9.07,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0194",
+      "revenue": 60,
+      "profit": -9.52,
+      "orders": 2
+    },
+    {
+      "customer_id": "CUST0257",
+      "revenue": 60,
+      "profit": 4.8,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0005",
+      "revenue": 60,
+      "profit": 5.77,
+      "orders": 1
+    },
+    {
+      "customer_id": "CUST0254",
+      "revenue": 60,
+      "profit": 17.94,
+      "orders": 1
+    }
+  ],
+  "recommendations": [
+    "High return rate detected. Review shipping quality and product expectations.",
+    "Increase marketing investment in East, the highest revenue region.",
+    "Investigate pricing and operational costs for: Mouse, Keyboard, Headphones."
+  ],
+  "categories": [
+    {
+      "category": "Electronics",
+      "revenue": 1200500,
+      "orders": 477,
+      "share_%": 89.2
+    },
+    {
+      "category": "Wearables",
+      "revenue": 74200,
+      "orders": 122,
+      "share_%": 5.5
+    },
+    {
+      "category": "Accessories",
+      "revenue": 71900,
+      "orders": 401,
+      "share_%": 5.3
+    }
+  ],
+  "regions": [
+    {
+      "region": "East",
+      "revenue": 329950,
+      "orders": 231,
+      "units": 715,
+      "revenue_share_%": 24.5
+    },
+    {
+      "region": "North",
+      "revenue": 324990,
+      "orders": 229,
+      "units": 702,
+      "revenue_share_%": 24.1
+    },
+    {
+      "region": "West",
+      "revenue": 323390,
+      "orders": 246,
+      "units": 733,
+      "revenue_share_%": 24.0
+    },
+    {
+      "region": "South",
+      "revenue": 301040,
+      "orders": 244,
+      "units": 726,
+      "revenue_share_%": 22.4
+    },
+    {
+      "region": "Unknown",
+      "revenue": 67230,
+      "orders": 50,
+      "units": 132,
+      "revenue_share_%": 5.0
+    }
+  ],
+  "monthly": [
+    {
+      "year_month": "2023-01",
+      "revenue": 141360,
+      "orders": 94,
+      "revenue_ma3": 141360.0,
+      "growth_%": NaN
+    },
+    {
+      "year_month": "2023-02",
+      "revenue": 78910,
+      "orders": 74,
+      "revenue_ma3": 110135.0,
+      "growth_%": -44.2
+    },
+    {
+      "year_month": "2023-03",
+      "revenue": 67660,
+      "orders": 67,
+      "revenue_ma3": 95976.67,
+      "growth_%": -14.3
+    },
+    {
+      "year_month": "2023-04",
+      "revenue": 87840,
+      "orders": 66,
+      "revenue_ma3": 78136.67,
+      "growth_%": 29.8
+    },
+    {
+      "year_month": "2023-05",
+      "revenue": 120080,
+      "orders": 86,
+      "revenue_ma3": 91860.0,
+      "growth_%": 36.7
+    },
+    {
+      "year_month": "2023-06",
+      "revenue": 129450,
+      "orders": 90,
+      "revenue_ma3": 112456.67,
+      "growth_%": 7.8
+    },
+    {
+      "year_month": "2023-07",
+      "revenue": 103160,
+      "orders": 79,
+      "revenue_ma3": 117563.33,
+      "growth_%": -20.3
+    },
+    {
+      "year_month": "2023-08",
+      "revenue": 108050,
+      "orders": 84,
+      "revenue_ma3": 113553.33,
+      "growth_%": 4.7
+    },
+    {
+      "year_month": "2023-09",
+      "revenue": 119490,
+      "orders": 81,
+      "revenue_ma3": 110233.33,
+      "growth_%": 10.6
+    },
+    {
+      "year_month": "2023-10",
+      "revenue": 118240,
+      "orders": 91,
+      "revenue_ma3": 115260.0,
+      "growth_%": -1.0
+    },
+    {
+      "year_month": "2023-11",
+      "revenue": 147150,
+      "orders": 88,
+      "revenue_ma3": 128293.33,
+      "growth_%": 24.5
+    },
+    {
+      "year_month": "2023-12",
+      "revenue": 113830,
+      "orders": 80,
+      "revenue_ma3": 126406.67,
+      "growth_%": -22.6
+    },
+    {
+      "year_month": "2024-01",
+      "revenue": 11380,
+      "orders": 20,
+      "revenue_ma3": 90786.67,
+      "growth_%": -90.0
+    }
+  ],
+  "quarterly": [
+    {
+      "quarter": "2023Q1",
+      "revenue": 287930,
+      "orders": 235
+    },
+    {
+      "quarter": "2023Q2",
+      "revenue": 337370,
+      "orders": 242
+    },
+    {
+      "quarter": "2023Q3",
+      "revenue": 330700,
+      "orders": 244
+    },
+    {
+      "quarter": "2023Q4",
+      "revenue": 379220,
+      "orders": 259
+    },
+    {
+      "quarter": "2024Q1",
+      "revenue": 11380,
+      "orders": 20
+    }
+  ],
+  "gender": [
+    {
+      "gender": "Female",
+      "revenue": 631010,
+      "orders": 476
+    },
+    {
+      "gender": "Male",
+      "revenue": 715590,
+      "orders": 524
+    }
+  ],
+  "age_groups": [
+    {
+      "age_group": "<25",
+      "revenue": 118980,
+      "orders": 98
+    },
+    {
+      "age_group": "25-34",
+      "revenue": 163730,
+      "orders": 135
+    },
+    {
+      "age_group": "35-44",
+      "revenue": 212940,
+      "orders": 172
+    },
+    {
+      "age_group": "45-54",
+      "revenue": 437320,
+      "orders": 286
+    },
+    {
+      "age_group": "55+",
+      "revenue": 413630,
+      "orders": 309
+    }
+  ],
+  "shipping": [
+    {
+      "status": "In Transit",
+      "count": 329,
+      "rate_%": 32.9
+    },
+    {
+      "status": "Delivered",
+      "count": 313,
+      "rate_%": 31.3
+    },
+    {
+      "status": "Returned",
+      "count": 308,
+      "rate_%": 30.8
+    },
+    {
+      "status": "Unknown",
+      "count": 50,
+      "rate_%": 5.0
+    }
+  ]
+}

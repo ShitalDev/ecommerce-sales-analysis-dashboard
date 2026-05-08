@@ -1,0 +1,6 @@
+region,revenue,orders,units,revenue_share_%
+East,329950,231,715,24.5
+North,324990,229,702,24.1
+West,323390,246,733,24.0
+South,301040,244,726,22.4
+Unknown,67230,50,132,5.0
